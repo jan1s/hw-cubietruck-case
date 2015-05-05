@@ -1,2 +1,5 @@
-# hw-cubietruck-case35
-A case for the cubietruck and a 3.5" hdd.
+# hw-cubietruck-case
+
+A case for the cubietruck and the 3.5" HDD power supply.
+
+![Case](docu/case.jpg "Case")
